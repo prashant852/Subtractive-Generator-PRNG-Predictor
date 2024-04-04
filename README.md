@@ -1,5 +1,6 @@
 # Subtractive-Generator-PRNG-Predictor
-Predicting Pseudo Random Number Generator (PRNG) Sequence of Subtractive Generator using Deep Learning
+Predicting Pseudo Random Number Generator (PRNG) Sequence of Subtractive Generator using Deep Learning  
+Revealing cryptographic vulnerabilities in Pseudo Random Number Generator of Programming Languages like C#  
 
 About Subtractive generator: https://rosettacode.org/wiki/Subtractive_generator
 
